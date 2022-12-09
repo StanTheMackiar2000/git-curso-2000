@@ -48,7 +48,7 @@ git commit -m "mensaje descriptivo del cambio"
 // se agrega el origen remoto de tu repositorio de GitHub
 git remote add origin https://github.com/usuario/repositorio.git
 // la primera vez que vinculamos el repositorio remoto con el local
-git push -u origin master
+git push -u origin main
 // para las subsecuentes actualizaciones, sino cambias de rama
 git push
 
