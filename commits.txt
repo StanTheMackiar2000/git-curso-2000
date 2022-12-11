@@ -1,0 +1,86 @@
+commit ba521fb1131efe53e4e1c8cf6b33067bc7e0d032
+Merge: ea7b874 a30b3ce
+Author: Stanly Calle <callestanly@gmail.com>
+Date:   Sun Dec 11 17:28:13 2022 -0500
+
+    Resolviendo conficto en pull
+
+commit ea7b874ea8ae86b9f876128ceb93fc380175ae5d
+Author: Stanly Calle <callestanly@gmail.com>
+Date:   Sun Dec 11 17:18:17 2022 -0500
+
+    Colocando dos nuevos parrafos
+
+commit a30b3ce17a84e6b86cd17d5431d78ebb43a7309e
+Author: Stanly Calle <callestanly@gmail.com>
+Date:   Sun Dec 11 17:18:17 2022 -0500
+
+    Colocando dos nuevos parrafos
+
+commit d94de66d3172f46f19679cfef0ffdebb53ec5558
+Merge: 372e678 c4ee6cf
+Author: Stanly Calle <callestanly@gmail.com>
+Date:   Thu Dec 8 21:20:00 2022 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit c4ee6cf2ebba9369348d9ef96b7a42f0f5078e93
+Author: Stanly Calle <callestanly@gmail.com>
+Date:   Thu Dec 8 21:13:02 2022 -0500
+
+    Agregando index.js al index.html
+
+commit 372e67823dea6a93e97c326338f21aeccc7cb618
+Author: Stanly Calle <callestanly@gmail.com>
+Date:   Thu Dec 8 21:10:11 2022 -0500
+
+    Agregando style.css al index.html
+
+commit 857d71d543eab099ab4e78c2451d33caa3c5522c
+Merge: 64b6b79 0072696
+Author: Stanly Calle <callestanly@gmail.com>
+Date:   Thu Dec 8 20:59:54 2022 -0500
+
+    Merge branch 'js'
+
+commit 0072696c369670cd94ad4521fef784a38305702e
+Author: Stanly Calle <callestanly@gmail.com>
+Date:   Thu Dec 8 20:54:45 2022 -0500
+
+    Creando index.js
+
+commit 64b6b79afc64fed00a28f5a11068299600261a8e
+Author: Stanly Calle <callestanly@gmail.com>
+Date:   Thu Dec 8 20:50:41 2022 -0500
+
+    Creando archivo styles.css
+
+commit 2231152d02aa1515eedac45911146164a690aef9
+Author: Stanly Calle <callestanly@gmail.com>
+Date:   Thu Dec 8 20:46:18 2022 -0500
+
+    Creando archivo index.html
+
+commit d936574066fb65da1dad40ab8d78994cfe9db012
+Author: Stanly Calle <callestanly@gmail.com>
+Date:   Thu Dec 8 20:30:43 2022 -0500
+
+    Ignorando archivos .exe
+
+commit 0869a9eea11355d3384e3303545a0d33c7cc9e91
+Author: Stanly Calle <106881474+StanTheMackiar@users.noreply.github.com>
+Date:   Thu Dec 8 20:08:44 2022 -0500
+
+    Creando licencia
+
+commit 1f1b0e2cc529f7ff3c1258b00e9b08c082e2968d
+Author: Stanly Calle <callestanly@gmail.com>
+Date:   Thu Dec 8 19:47:06 2022 -0500
+
+    Editado readme
+
+commit a1f359f3cd5c2e09e8f5500767e72895bf0ef96c
+Author: Stanly Calle <callestanly@gmail.com>
+Date:   Thu Dec 8 19:26:46 2022 -0500
+
+    Primer commit

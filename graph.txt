@@ -1,0 +1,21 @@
+*   ba521fb Resolviendo conficto en pull
+|\  
+| * a30b3ce Colocando dos nuevos parrafos
+* | ea7b874 Colocando dos nuevos parrafos
+|/  
+*   d94de66 Resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * c4ee6cf Agregando index.js al index.html
+* | 372e678 Agregando style.css al index.html
+* |   857d71d Merge branch 'js'
+|\ \  
+| * | 0072696 Creando index.js
+* | | 64b6b79 Creando archivo styles.css
+| |/  
+|/|   
+* | 2231152 Creando archivo index.html
+|/  
+* d936574 Ignorando archivos .exe
+* 0869a9e Creando licencia
+* 1f1b0e2 Editado readme
+* a1f359f Primer commit

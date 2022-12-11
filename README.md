@@ -98,3 +98,101 @@ git branch --merged
 git checkout rama-secundaria
 git rebase rama-principal
 ```
+
+## Fusiones
+
+```js
+// nos cambiamos a la rama principal que quedará de la fusión
+git checkout rama-principal
+// ejecutamos el comando merge con la rama secundaria a fusionar
+git merge rama-secundaria
+```
+
+## Agregar modificaciones al ultimo cambio
+
+```js
+// sin editar el mensaje del último commit
+git commit --amend --no-edit
+
+// editando el mensaje del último commit
+git commit --amend -m "nuevo mensaje para el último commit"
+
+// eliminar el último commit
+git reset --hard HEAD~1
+
+```
+
+## Desplazarse en el historial del respositorio
+
+```js
+// cambiar a una rama
+git checkout nombre-rama
+
+// cambiar a un commit en particular
+git checkout id-commit
+
+```
+
+## Registro del historial
+
+```js
+git log
+
+// muestra en una sola línea por cambio
+git log --oneline
+
+// guarda el log en la ruta y archivo que especifiquemos
+git log > commits.txt
+
+// muestra el historial con el formato que indicamos
+git log --pretty=format:"%h - %an, %ar : %s"
+
+// cambiamos la n por cualquier número entero y mostrará los n cambios recientes
+git log -n
+
+// muestra los cambios realizados después de la fecha especificada
+git log --after="2019-07-07 00:00:00"
+
+// muestra los cambios realizados antes de la fecha especificada
+git log --before="2019-07-08 00:00:00"
+
+// muestra los cambios realizados en el rango de fecha especificado
+git log --after="2019-07-07 00:00:00" --before="2019-07-08 00:00:00"
+
+// muestra una gráfica del historial de cambios, rama y fusiones
+git log --oneline --graph --all
+
+// muestra todo el registro de acciones del log
+// incluyendo inserciones, cambios, eliminaciones, fusiones, etc.
+git reflog
+
+// diferencias entre el Working Directory y el Staging Area
+git diff
+
+```
+
+
+## Reseteo del historial
+
+```js
+//nos muestra el listado de archivos nuevos (untracked), borrados o editados
+git status
+
+// borra HEAD
+git reset --soft
+
+// borra HEAD y Staging
+git reset --mixed
+
+// borra todo: HEAD, Staging y Working Directory
+git reset --hard
+
+// deshace todos los cambios después del commit indicado, preservando los cambios localmente
+git reset id-commit
+
+// desecha todo el historial y regresa al commit especificado
+git reset --hard id-commit
+
+
+```
+
