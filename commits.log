@@ -1,3 +1,48 @@
+commit ccdb32555f6885077a855cebbbcf1ae037197987
+Merge: 5a55f5a 5574bd5
+Author: Stanly Calle <106881474+StanTheMackiar@users.noreply.github.com>
+Date:   Sun Dec 11 23:58:21 2022 -0500
+
+    Merge pull request #1 from StanTheMackiar2000/new
+    
+    Cambios en README.md
+
+commit 5574bd5a2978de609cffd164744a3c8aa8085b90
+Author: StanTheMackiar2000 <stanly_leon2000@hotmail.com>
+Date:   Sun Dec 11 21:35:32 2022 -0500
+
+    Aportando informacion al README.md
+
+commit 9b1e87385fbb43fdf0bdca2a39c086e18dc7e2c2
+Author: StanTheMackiar2000 <stanly_leon2000@hotmail.com>
+Date:   Sun Dec 11 21:30:31 2022 -0500
+
+    Haciendo mejores al README del repositorio
+
+commit a214a990261685931ed699e45a156bb4935b773c
+Author: StanTheMackiar2000 <stanly_leon2000@hotmail.com>
+Date:   Sun Dec 11 21:00:30 2022 -0500
+
+    Cambio de prueba StanTheMackiar2000
+
+commit 5a55f5a5744eec8442c5c2ed0fd26f8a8615082a
+Author: Stanly Calle <callestanly@gmail.com>
+Date:   Sun Dec 11 20:25:31 2022 -0500
+
+    Agregando imagen de flujo Git y poniendo chulo el index.html
+
+commit 373ca7bc2e5f62f78675246bea51fe933eb7c32f
+Author: Stanly Calle <callestanly@gmail.com>
+Date:   Sun Dec 11 19:48:15 2022 -0500
+
+    v1.0.0
+
+commit 4a48b4e1a92b668219eae675ba7a288850a305ff
+Author: Stanly Calle <callestanly@gmail.com>
+Date:   Sun Dec 11 18:36:34 2022 -0500
+
+    Respaldado logs del repositorio
+
 commit ba521fb1131efe53e4e1c8cf6b33067bc7e0d032
 Merge: ea7b874 a30b3ce
 Author: Stanly Calle <callestanly@gmail.com>
